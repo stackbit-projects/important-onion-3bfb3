@@ -2,6 +2,10 @@
 title: Home
 layout: PageLayout
 sections:
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: Callout
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
