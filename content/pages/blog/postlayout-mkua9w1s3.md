@@ -10,7 +10,6 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
-author: content/data/team/desmond-eagle.json
 ---
 ## Lorem ipsum
 
