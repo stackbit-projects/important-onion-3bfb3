@@ -1,10 +1,9 @@
 // src/components/Callout.js
-// src/components/Callout.js
 
-const Callout = ({ body }) => {
+const Callout = ({ annotationPrefix, body }) => {
   return (
-    <div>
-      <p>{body}</p>
+    <div data-sb-field-path={annotationPrefix}>
+      <p data-sb-field-path=".body">{body}</p>
     </div>
   )
 }
