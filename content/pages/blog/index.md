@@ -8,8 +8,8 @@ sections:
     backgroundWidth: full
     title: Latest blog posts
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/postlayout-mkua9w1s3.md
+      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     styles:
