@@ -9,14 +9,19 @@ sections:
     title: Latest blog posts
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-mkua9w1s3.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     styles:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0"]
-        padding: ["pt-12", "pb-12"]
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
       title:
