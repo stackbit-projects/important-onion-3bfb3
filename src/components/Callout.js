@@ -1,3 +1,4 @@
+import * as React from 'react';
 // src/components/Callout.js
 
 const Callout = ({ annotationPrefix, body }) => {
